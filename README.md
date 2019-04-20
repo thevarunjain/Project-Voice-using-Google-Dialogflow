@@ -22,10 +22,14 @@ We are thinking to use Google's Dialogflow and build conversational user experie
 
 ![image](https://user-images.githubusercontent.com/42597460/56462427-b4609f80-6377-11e9-8237-58022d8d4380.png)
 
+## Google Dialogflow integrated with Slack
+![image](https://user-images.githubusercontent.com/42597460/56462589-8fb9f700-637a-11e9-9217-c7eb15adc0f2.png)
+
+
 # Screenshots
 
-### Starting a project
-<img src="https://user-images.githubusercontent.com/42597460/56462467-5aaca500-6378-11e9-89b5-a15dda6cf7b7.jpg" width="250" height= "500">
+## How to interact with our system
+<img src="https://user-images.githubusercontent.com/42597460/56462594-ae1ff280-637a-11e9-91c9-3c3dccd19a8b.png" width="400" height= "500">
 
 ### GitHub 
 <img src="https://user-images.githubusercontent.com/42597460/56462449-14574600-6378-11e9-8af5-17422a26106a.JPG" width="250" height= "500">
