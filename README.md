@@ -1,26 +1,5 @@
-# Project Team 21
-
-## Student Names :
-
-- Mayur Barge
-
-- Varun Jain
-
-- Shubham Sandeep Sand
-
-- Abhishek Konduri
-
-
-
-## Team Name :
-
-Project Team 21
-
-## Project Ideas : 
-
-
-
-### Conversational User Experience For Workplace  - APPROVED
+# Project Voice
+### Conversational User Experience For Workplace
 
 - **Abstract**
 
